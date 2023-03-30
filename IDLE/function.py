@@ -14,3 +14,9 @@ for i in range(0,20,1):
     else:
         print("Odd")
         
+
+def result(name="ruhul",schore="122"):
+    print(name  , " Schored " , schore)
+
+result()
+result("sakib",122)
