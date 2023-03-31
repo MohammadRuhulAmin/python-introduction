@@ -3,3 +3,7 @@ Introduction To Python Description.
 
 Playlist :
 https://www.youtube.com/playlist?list=PLS1QulWo1RIYt4e0WnBp-ZjCNq8X0FX0J
+
+
+More about Machine Learning: 
+https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
