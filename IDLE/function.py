@@ -20,3 +20,12 @@ def result(name="ruhul",schore="122"):
 
 result()
 result("sakib",122)
+
+def summation(arg1,arg2):
+    if(type(arg1)!=type(arg2)):
+        print("provide a valid info")
+        return -1
+    else:
+        return arg1+arg2
+
+print(summation('12',11))
