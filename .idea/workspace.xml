@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7224b44f-b0cc-4753-921b-a4b99fb68563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ApacheNifi/documentParsing" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApacheNifi/text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/dco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/op_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/regex_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/sln.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/sln2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/regex_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/regex_a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Python-Basic&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Composition">
+  <component name="RunManager">
     <configuration name="Composition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,5 +159,16 @@
       <updated>1680183588598</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
