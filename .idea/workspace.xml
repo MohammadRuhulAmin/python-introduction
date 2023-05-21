@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7224b44f-b0cc-4753-921b-a4b99fb68563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/regex/sln.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/sln2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternc/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/condbmysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/connectdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/convertDate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/px.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/sln3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/sln4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/regex/regex_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/regex_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/sln.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/sln.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
