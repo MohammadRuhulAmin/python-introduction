@@ -5,17 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7224b44f-b0cc-4753-921b-a4b99fb68563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/patternc/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/condbmysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/connectdb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/convertDate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/px.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/sln3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/sln4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeletePassport/DeleteRepeatedPassport.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regex/regex_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/regex_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regex/sln.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/sln.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApacheNifi/documentParsing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApacheNifi/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Intermideate/info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/Python-Introduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/DeepLearningSyllabus/Deep-Learning-NLP-and-Computer-Vision-Latest-Module.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/Modules/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/Modules/implement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/Composition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/Encapsulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/MyCar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/PrivateMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/ObjectOriented/Super.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/TextProcessing/cross.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/TextProcessing/flowfileTransfer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/TextProcessing/flowfiletextprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/TextProcessing/pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/TextProcessing/textprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/break_cont.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/compare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/comparision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/in_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/slice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/basic_syntax/string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/functionBank/calculation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/functionBank/math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-introduction/intro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patternc/fullcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patternc/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/condbmysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/connectdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/convertDate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/dco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/op_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/px.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/regex_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/sln.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/sln2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/sln3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/sln4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +80,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Python-Basic&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/PassportDelete&quot;
   }
 }</component>
   <component name="RunManager">
@@ -148,9 +191,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Composition" />
         <item itemvalue="Python.textprocessing" />
         <item itemvalue="Python.pattern" />
-        <item itemvalue="Python.Composition" />
         <item itemvalue="Python.Super" />
         <item itemvalue="Python.implement" />
       </list>
